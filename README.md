@@ -1,2 +1,2 @@
 # calculadoraEBAC
-Calculadora funcinal inicial
+Calculadora 
